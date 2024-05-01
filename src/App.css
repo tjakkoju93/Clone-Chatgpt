@@ -1,0 +1,24 @@
+.mainpage{
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  background-color: yellow;
+  width: 100%;
+  height: 100vh;
+  font-family: "Roboto", sans-serif;
+  color: #333;
+
+  .leftsection{
+    width: 20%;
+    background-color: red;
+    overflow: hidden;
+
+  }
+  .rightsection{
+    width: 80%;
+    background-color: blue;
+    overflow: hidden;
+
+  }
+}
+
